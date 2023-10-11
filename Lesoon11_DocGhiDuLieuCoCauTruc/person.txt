@@ -1,0 +1,4 @@
+trung,16,nam
+thang,17,nam
+hung,18,nam
+dung,21,nam
